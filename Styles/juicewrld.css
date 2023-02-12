@@ -1,0 +1,53 @@
+    #main{
+        background-color: rgb(32, 30, 32);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #Title{
+        color: white;
+        background-color: rgb(224, 169, 109);
+        font-family: arial;
+        text-align: center;
+        color: white;
+    }
+    p{
+        margin-right: 300px;
+        text-align: left;
+        line-height: 24px;
+        color: white;
+    }
+    #qoutes{
+        font-style: italic;
+        font-family: arial;
+        color: white;
+    }
+    #Tribute-info{
+        color: white;
+    }
+    div{
+        color: white;
+        background-color: rgb(221, 195, 165);
+
+    }
+    span{
+        font-weight: bold;
+        color: white;
+    }
+    footer{
+        color: white;
+        background-color: rgb(224, 169, 109);
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #image{
+        width: 300px;
+        cursor: pointer;
+    }
+    #img-caption{
+        color: black;
+        font-weight: bold;
+        margin-top: 0px;
+    }
+    a:hover{
+        cursor: pointer;
+        font-weight: bold;
+    }
